@@ -1,6 +1,6 @@
                                                        👋 Hi, I’m Yurii Kuzyk
 
-                                   👀 I’m looking for a new role Python Developer 🎯
+                                               👀 I’m looking for a new role Python Developer 🎯
  
                                                      📲 Teleglam : https://t.me/k_yurij
 <!---
